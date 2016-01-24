@@ -1,0 +1,12 @@
+<!--#include file="shared/head.shtml" -->
+
+  <body>
+    <!--#include file="shared/navbar.shtml" -->
+    <div class="container">
+      <!--#include file="home.shtml" -->
+    </div>
+    <!--#include file="shared/navbar_bottom.shtml" -->
+  </body>
+
+</html>
+

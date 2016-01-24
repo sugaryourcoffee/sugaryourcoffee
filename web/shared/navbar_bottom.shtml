@@ -1,0 +1,25 @@
+<nav class="navbar navbar-inverse navbar-fixed-bottom">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" 
+              data-toggle="collapse" 
+              data-target="#collapsable-bottom" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="collapsable-bottom">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="https://github.com/sugaryourcoffee">Sugar Your Coffee</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="about.shtml">About Us</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
