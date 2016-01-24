@@ -31,6 +31,15 @@ directory will contain files that are used in several pages, as header and
 footer. The directory `bower_components` will be created later when we install 
 Bootstrap.
 
+We will host our source code at Github. We create a Github repository at
+Github and then we add our source to the repository
+
+    $ git init
+    $ git add .
+    $ git commit -am "initial commit"
+    $ git remote add origin git@github.com:sugaryourcoffee/sugaryourcoffee.git
+    $ git push -u origin master
+
 # Intent and content
 The internet presentation will contain static pages that provide information
 about our mission and the projects we are working on.
