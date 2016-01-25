@@ -6,7 +6,8 @@
     <div class="media">
       <div class="media-left">
         <a href="http://syc.dyndns.org:8080">
-          <img class="media-object" src="..." alt="secondhand">
+          <img class="media-object" src="images/secondhand.png" 
+            alt="secondhand">
         </a>
       </div>
       <div class="media-body">
@@ -31,7 +32,7 @@
     <div class="media">
       <div class="media-left">
         <a href="http://syc.dyndns.org:8084">
-          <img class="media-object" src="..." alt="circlus">
+          <img class="media-object" src="images/circlus.png" alt="circlus">
         </a>
       </div>
       <div class="media-body">
