@@ -1,0 +1,68 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Web applications</h3>
+  </div>
+  <div class="panel-body">
+    <div class="media">
+      <div class="media-left">
+        <a href="http://syc.dyndns.org:8080">
+          <img class="media-object" src="..." alt="secondhand">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Secondhand</h4>
+        <p>
+          Secondhand is an application to organize secondhand events. 
+          Sellers can register their products they want to sell at the 
+          secondhand event. The day before the event sellers ship their 
+          products to the secondhand location and the items are marked 
+          as shipped. During the event the items are sold to customers 
+          and the items are marked as sold in secondhand. After the 
+          event lists of the sellers are printed with the revenue listed.
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/secondhand">
+            Github
+          </a>
+        </p>
+    </div>
+
+    <div class="media">
+      <div class="media-left">
+        <a href="http://syc.dyndns.org:8084">
+          <img class="media-object" src="..." alt="circlus">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Circlus</h4>
+        <p>
+          Circlus is an application to manage organizations, members, 
+          groups and events.
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/circlus">Github</a>
+        </p>
+    </div>
+
+    <div class="media">
+      <div class="media-left">
+        <a href="http://syc.dyndns.org:8081">
+          <img class="media-object" src="..." alt="apptrack">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Apptrack</h4>
+        <p>
+          Apptrack we use to collect requirements and issues for our 
+          applications.
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/apptrack">Github</a>
+        </p>
+    </div>
+  </div>
+</div>
+
