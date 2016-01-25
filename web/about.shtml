@@ -4,6 +4,73 @@
     <!--#include file="shared/navbar.shtml" -->
     <div class="container">
       <h1>About us</h1>
+      <div class="row">
+
+        <div class="col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <img src="http://static.fsf.org/nosvn/associate/crm/25935.png"
+                 alt="fsf membership">
+            <div class="caption">
+              <h3>Free Software Foundation</h3>
+              <p>
+                We suport the Free Software Foundation (FSF) to make sure we 
+                will keep our freedom to provide free software. If you want to 
+                contribute follow the link to the 
+                <a href="https://my.fsf.org/">FREE SOFTWARE FOUNDATION</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-8">
+          <div class="media">
+            <div class="media-left">
+              <a href="https://pragmaticstudio.com/alumni/sugaryourcoffee">
+                <img class="media-object" 
+                  src="https://pragmaticstudio.com/images/buttons/rails-alumni-button.png" alt="ruby on rails">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Ruby on Rails</h4>
+              For web applications we currently use Ruby on Rails which gives us
+              high productivity and we are able to deliver applications on short
+              notice.
+            </div>
+          </div>
+          <div class="media">
+            <div class="media-left">
+              <a href="https://pragmaticstudio.com/alumni/sugaryourcoffee">
+                <img class="media-object" 
+                  src="https://pragmaticstudio.com/images/buttons/ruby-alumni-button.png" alt="ruby">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Ruby</h4>
+              As Ruby is the foundation of Ruby on Rails we also have
+              and education on Ruby. We also develop applications with Ruby.
+            </div>
+          </div>
+          <div class="media">
+            <div class="media-left">
+              <a href="https://pragmaticstudio.com/alumni/sugaryourcoffee">
+                <img class="media-object" 
+                  src="https://pragmaticstudio.com/images/buttons/ruby-blocks-alumni-button.png" alt="ruby blocks & iterators">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Ruby Blocks and Iterators</h4>
+              <p>
+                We contiuously try to improve our expertise in programming. Our
+                main source for training is the 
+                <a href="https://https://pragmaticstudio.com/">
+                  Pragmatic Studio
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
     <!--#include file="shared/navbar_bottom.shtml" -->
   </body>
