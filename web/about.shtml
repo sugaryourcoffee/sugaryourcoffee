@@ -70,6 +70,17 @@
           </div>
         </div>
       </div>
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+          <br />
+          <div class="panel panel-default">
+            <div class="panel-body">
+              If you like you may send us comments or questions at 
+              <a href="mailto:web@sugaryourcoffee.de">web@sugaryourcoffee.de</a>
+            </div>
+          </div>
+        </div>
+      </div>
 
     </div>
     <!--#include file="shared/navbar_bottom.shtml" -->
