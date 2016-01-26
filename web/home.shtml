@@ -48,3 +48,42 @@
   </a>
 
 </div>
+
+<br />
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>Mission</h3>
+        <p>Our main purpose is to develop and provide software applications
+        for free to public-spirited organizations that spend their free time 
+        to support social institutions.</p>
+        <p>All software is distributed under the MIT license and may be used
+        by anyone for free</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>Projects</h3>
+        <p>Our main project is Secondhand ...</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>Resources</h3>
+        <p>We also provide resources like links and book information ...</p>
+      </div>
+    </div>
+  </div>
+</div>
+
