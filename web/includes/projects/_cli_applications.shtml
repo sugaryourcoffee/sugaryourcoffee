@@ -1,0 +1,47 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Command line applications</h3>
+  </div>
+  <div class="panel-body">
+    <div class="media">
+      <div class="media-left">
+        <a href="https://rubygems/sugaryourcoffee/syc-task">
+          <img class="media-object" src="images/syc-task.png" 
+            alt="syc-task">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Task</h4>
+        <p>
+          Task is a command line interface to manage task in a task list.
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/syc-task">
+            Github
+          </a>
+        </p>
+    </div>
+
+    <div class="media">
+      <div class="media-left">
+        <a href="http://rubygems/sugaryourcoffee/syc-ontact">
+          <img class="media-object" src="images/syc-ontact.png" 
+            alt="syc-ontact">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Contact</h4>
+        <p>
+          Contact is a wrapper that accesses contact data at arbitrary sources
+          and displays them at the command line
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/syc-ontact">Github</a>
+        </p>
+    </div>
+
+  </div>
+</div>
+
