@@ -1,0 +1,52 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Libraries</h3>
+  </div>
+  <div class="panel-body">
+    <div class="media">
+      <div class="media-left">
+        <a href="https://badge.fury.io/rb/syc-barcode">
+          <img class="media-object" 
+            src="https://badge.fury.io/rb/syc-barcode.svg" alt="Gem Version"
+            height="18">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Barcode</h4>
+        <p>
+          A barcode generator.
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/syc-barcode">
+            Github
+          </a>
+        </p>
+      </div>
+    </div>
+
+    <div class="media">
+      <div class="media-left">
+        <a href="https://badge.fury.io/rb/timeleap">
+          <img class="media-object" 
+            src="https://badge.fury.io/rb/timeleap.svg" alt="Gem Version"
+            height="18">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Timeleap</h4>
+        <p>
+          Dynamically create date methods to jump through time.
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/timeleap">
+            Github
+          </a>
+        </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+

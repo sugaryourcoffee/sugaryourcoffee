@@ -5,6 +5,8 @@
     <div class="container">
       <h1>Projects</h1>
       <!--#include file="includes/projects/_web_applications.shtml" -->
+      <!--#include file="includes/projects/_cli_applications.shtml" -->
+      <!--#include file="includes/projects/_libraries.shtml" -->
     </div>
     <!--#include file="shared/navbar_bottom.shtml" -->
   </body>

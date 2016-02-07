@@ -5,9 +5,10 @@
   <div class="panel-body">
     <div class="media">
       <div class="media-left">
-        <a href="https://rubygems/sugaryourcoffee/syc-task">
-          <img class="media-object" src="images/syc-task.png" 
-            alt="syc-task">
+        <a href="https://badge.fury.io/rb/syc-task">
+          <img class="media-object" 
+            src="https://badge.fury.io/rb/syc-task.svg" alt="Gem Version"
+            height="18">
         </a>
       </div>
       <div class="media-body">
@@ -21,25 +22,66 @@
             Github
           </a>
         </p>
+      </div>
     </div>
 
     <div class="media">
       <div class="media-left">
-        <a href="http://rubygems/sugaryourcoffee/syc-ontact">
-          <img class="media-object" src="images/syc-ontact.png" 
-            alt="syc-ontact">
+        <a href="https://badge.fury.io/rb/syc-ontact">
+          <img class="media-object" 
+            src="https://badge.fury.io/rb/syc-ontact.svg" alt="Gem Version"
+            height="18">
         </a>
       </div>
       <div class="media-body">
         <h4 class="media-heading">Contact</h4>
         <p>
           Contact is a wrapper that accesses contact data at arbitrary sources
-          and displays them at the command line
+          like LDAP servers and displays them at the command line
         </p>
         <p>
           The source code can be found at 
           <a href="https://github.com/sugaryourcoffee/syc-ontact">Github</a>
         </p>
+      </div>
+    </div>
+
+    <div class="media">
+      <div class="media-left">
+        <a href="https://badge.fury.io/rb/sycsvpro">
+          <img class="media-object" 
+            src="https://badge.fury.io/rb/sycsvpro.svg" alt="Gem Version"
+            height="18">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Csvpro</h4>
+        <p>A CSV processor to conduct analysis based on csv data.</p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/sycsvcpro">Github</a>
+        </p>
+      </div>
+    </div>
+
+    <div class="media">
+      <div class="media-left">
+        <a href="https://badge.fury.io/rb/syclink">
+          <img class="media-object" 
+            src="https://badge.fury.io/rb/syclink.svg" alt="Gem Version"
+            height="18">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Link</h4>
+        <p>Creates a link list that is converted to HTML and can be 
+          displyed as a web page.
+        </p>
+        <p>
+          The source code can be found at 
+          <a href="https://github.com/sugaryourcoffee/syclink">Github</a>
+        </p>
+      </div>
     </div>
 
   </div>

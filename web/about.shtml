@@ -68,6 +68,21 @@
               </p>
             </div>
           </div>
+          <div class="media">
+            <div class="media-left">
+              <a href="https://pragmaticstudio.com/alumni/sugaryourcoffee">
+                <img class="media-object" 
+                  src="https://pragmaticstudio.com/images/buttons/elm-alumni-button.png" alt="Elm: Building Reactive Web Apps">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Elm: Building Reactive Web Apps</h4>
+              <p>
+                We are currently evaluating functional and reactive programming.
+                Elm is a promissing language for web UIs.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
       <div class="row">
