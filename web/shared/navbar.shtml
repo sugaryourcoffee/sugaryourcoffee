@@ -18,7 +18,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="projects.shtml">Projects</a></li>
         <li><a href="resources.shtml">Resources</a></li>
-        <li><a href="#">Blog</a></li>
+        <li><a href="blogs.shtml">Blogs</a></li>
       </ul>
     </div>
   </div>

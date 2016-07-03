@@ -5,11 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!--#if expr="${DOCUMENT_NAME} = home.shtml" -->
+    <title>SugarYourCoffee</title>
+<!--
+    <!--#set var="document" value="DOCUMENT_NAME" -->
+    <!--#echo var="$document" -->
+    <!--#if expr="${DOCUMENT_NAME} = index.shtml" -->
       <title>SugarYourCoffee | Home</title>
     <!--#endif -->
-
-    <!--#if expr="${DOCUMENT_NAME} = projects.shtml" -->
+    <!--#if expr="${DOCUMENT_NAME} = /projects.shtml/" -->
       <title>SugarYourCoffee | Projects</title>
     <!--#endif -->
 
@@ -17,10 +20,14 @@
       <title>SugarYourCoffee | Resources</title>
     <!--#endif -->
 
+    <!--#if expr="${DOCUMENT_NAME} = blogs.shtml" -->
+      <title>SugarYourCoffee | Blogs</title>
+    <!--#endif -->
+
     <!--#if expr="${DOCUMENT_NAME} = about_us.shtml" -->
       <title>SugarYourCoffee | About Us</title>
     <!--#endif -->
-
+    -->
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/custom.css" rel="stylesheet">

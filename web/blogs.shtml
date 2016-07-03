@@ -1,0 +1,13 @@
+<!--#include file="shared/head.shtml" -->
+
+  <body>
+    <!--#include file="shared/navbar.shtml" -->
+    <div class="container">
+      <h1>Blogs</h1>
+      <!--#include file="includes/blogs/test.md" -->
+     </div>
+    <!--#include file="shared/navbar_bottom.shtml" -->
+  </body>
+
+</html>
+
